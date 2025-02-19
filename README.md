@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> MY SHOP CAR </title>
+</head>
+
+<body>
+<main>
+    <h3>MY SHOP CAR </h3>
+    <p>From my child to now with a passion of car, BMW is my favourite: </p>
+    <ol>
+        <li>BMW32i</li>
+        <li>BMW430i</li>
+        <li>BMW740i</li>
+        <li>BMW8</li>
+    </ol>
+</main>
+<footer>Copyright by Colleen van Lent</footer>
+</body>
+
+</html>
